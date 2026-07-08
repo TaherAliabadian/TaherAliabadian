@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I am Taher Aliabadian.
 
 I'm an AI and Deep Learning developer with a strong interest in Computer Vision and Image Processing.
 
