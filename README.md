@@ -4,7 +4,7 @@ I'm an AI and Deep Learning developer with a strong interest in Computer Vision 
 
 ## 🛠️ Languages and Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,opencv,tensorflow,raspberrypi,vscode,arduino" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,opencv,tensorflow,raspberrypi,vscode,arduino,django" /> </p>
 
 ## 🚀 Skills and Technologies
 
@@ -35,4 +35,4 @@ Currently, I am working on projects involving computer vision, object detection,
 
 ## Certificate
 
-<img src="/document1.pdf" alt="Certificate">
+<img src="/Screenshot from 2026-07-08 12-03-39.png" alt="My Git Certificate">
