@@ -35,4 +35,4 @@ Currently, I am working on projects involving computer vision, object detection,
 
 ## Certificate
 
-<img src="/Screenshot from 2026-07-08 12-03-39.png" alt="My Git Certificate">
+<img src="/Screenshot from 2026-07-08 12-13-14.png" alt="My Git Certificate">
