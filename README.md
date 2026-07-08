@@ -28,3 +28,11 @@ I'm an AI and Deep Learning developer with a strong interest in Computer Vision 
 I enjoy building intelligent systems that can understand and interact with the real world through cameras and sensors.
 
 Currently, I am working on projects involving computer vision, object detection, and autonomous navigation systems.
+
+## My Photo
+
+<img src="/ChatGPT Image Jul 8, 2026, 10_42_11 AM.png" alt="My Photo">
+
+## Certificate
+
+<img src="/document1.pdf" alt="Certificate">
