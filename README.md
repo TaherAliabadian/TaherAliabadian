@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**TaherAliabadian/TaherAliabadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI and Deep Learning developer with a strong interest in Computer Vision and Image Processing.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* TensorFlow
+* Keras
+* NumPy
+* OpenCV
+* Computer Vision
+* Image Processing
+* Deep Learning
+* Python
+
+## 🔬 Areas of Interest
+
+* Object Detection
+* Autonomous Vehicles
+* Traffic Sign Recognition
+* Machine Learning
+* Robotics and Embedded AI
+
+I enjoy building intelligent systems that can understand and interact with the real world through cameras and sensors.
+
+Currently, I am working on projects involving computer vision, object detection, and autonomous navigation systems.
