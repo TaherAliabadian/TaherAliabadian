@@ -4,7 +4,7 @@ I'm an AI and Deep Learning developer with a strong interest in Computer Vision 
 
 ## 🛠️ Languages and Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,opencv,tensorflow,raspberrypi,vscode" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,linux,ubuntu,git,github,opencv,tensorflow,raspberrypi,vscode,arduino" /> </p>
 
 ## 🚀 Skills and Technologies
 
